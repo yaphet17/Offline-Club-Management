@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ICPC_Clup_Management.jnlp">
+  <information>
+    <title>ICPC_Clup_Management</title>
+    <vendor>Yaphet</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ICPC_Clup_Management.jar" size="182596" download="eager" />
+    <jar href="lib\mysql-connector-java-8.0.19.jar" size="2356711" download="eager" />
+    <jar href="lib\spring-security-acl-4.2.8.RELEASE-javadoc.jar" size="225932" download="eager" />
+    <jar href="lib\spring-security-acl-4.2.8.RELEASE-sources.jar" size="89755" download="eager" />
+    <jar href="lib\spring-security-acl-4.2.8.RELEASE.jar" size="85110" download="eager" />
+    <jar href="lib\spring-security-aspects-4.2.8.RELEASE-javadoc.jar" size="261" download="eager" />
+    <jar href="lib\spring-security-aspects-4.2.8.RELEASE-sources.jar" size="2768" download="eager" />
+    <jar href="lib\spring-security-aspects-4.2.8.RELEASE.jar" size="6767" download="eager" />
+    <jar href="lib\spring-security-cas-4.2.8.RELEASE-javadoc.jar" size="106161" download="eager" />
+    <jar href="lib\spring-security-cas-4.2.8.RELEASE-sources.jar" size="37789" download="eager" />
+    <jar href="lib\spring-security-cas-4.2.8.RELEASE.jar" size="30842" download="eager" />
+    <jar href="lib\spring-security-config-4.2.8.RELEASE-javadoc.jar" size="636342" download="eager" />
+    <jar href="lib\spring-security-config-4.2.8.RELEASE-sources.jar" size="276744" download="eager" />
+    <jar href="lib\spring-security-config-4.2.8.RELEASE.jar" size="589194" download="eager" />
+    <jar href="lib\spring-security-core-4.2.8.RELEASE-javadoc.jar" size="995970" download="eager" />
+    <jar href="lib\spring-security-core-4.2.8.RELEASE-sources.jar" size="448448" download="eager" />
+    <jar href="lib\spring-security-core-4.2.8.RELEASE.jar" size="419488" download="eager" />
+    <jar href="lib\spring-security-crypto-4.2.8.RELEASE-javadoc.jar" size="141832" download="eager" />
+    <jar href="lib\spring-security-crypto-4.2.8.RELEASE-sources.jar" size="68950" download="eager" />
+    <jar href="lib\spring-security-crypto-4.2.8.RELEASE.jar" size="71786" download="eager" />
+    <jar href="lib\spring-security-data-4.2.8.RELEASE-javadoc.jar" size="21856" download="eager" />
+    <jar href="lib\spring-security-data-4.2.8.RELEASE-sources.jar" size="2660" download="eager" />
+    <jar href="lib\spring-security-data-4.2.8.RELEASE.jar" size="2854" download="eager" />
+    <jar href="lib\spring-security-ldap-4.2.8.RELEASE-javadoc.jar" size="215888" download="eager" />
+    <jar href="lib\spring-security-ldap-4.2.8.RELEASE-sources.jar" size="90889" download="eager" />
+    <jar href="lib\spring-security-ldap-4.2.8.RELEASE.jar" size="107507" download="eager" />
+    <jar href="lib\spring-security-messaging-4.2.8.RELEASE-javadoc.jar" size="96950" download="eager" />
+    <jar href="lib\spring-security-messaging-4.2.8.RELEASE-sources.jar" size="25726" download="eager" />
+    <jar href="lib\spring-security-messaging-4.2.8.RELEASE.jar" size="28557" download="eager" />
+    <jar href="lib\spring-security-openid-4.2.8.RELEASE-javadoc.jar" size="62349" download="eager" />
+    <jar href="lib\spring-security-openid-4.2.8.RELEASE-sources.jar" size="18933" download="eager" />
+    <jar href="lib\spring-security-openid-4.2.8.RELEASE.jar" size="18930" download="eager" />
+    <jar href="lib\spring-security-remoting-4.2.8.RELEASE-javadoc.jar" size="56809" download="eager" />
+    <jar href="lib\spring-security-remoting-4.2.8.RELEASE-sources.jar" size="15002" download="eager" />
+    <jar href="lib\spring-security-remoting-4.2.8.RELEASE.jar" size="11407" download="eager" />
+    <jar href="lib\spring-security-taglibs-4.2.8.RELEASE-javadoc.jar" size="56138" download="eager" />
+    <jar href="lib\spring-security-taglibs-4.2.8.RELEASE-sources.jar" size="15057" download="eager" />
+    <jar href="lib\spring-security-taglibs-4.2.8.RELEASE.jar" size="19655" download="eager" />
+    <jar href="lib\spring-security-test-4.2.8.RELEASE-javadoc.jar" size="106534" download="eager" />
+    <jar href="lib\spring-security-test-4.2.8.RELEASE-sources.jar" size="31459" download="eager" />
+    <jar href="lib\spring-security-test-4.2.8.RELEASE.jar" size="49044" download="eager" />
+    <jar href="lib\spring-security-web-4.2.8.RELEASE-javadoc.jar" size="976347" download="eager" />
+    <jar href="lib\spring-security-web-4.2.8.RELEASE-sources.jar" size="396442" download="eager" />
+    <jar href="lib\spring-security-web-4.2.8.RELEASE.jar" size="388218" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="ICPC_Clup_Management" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="icpc_club_management.ICPC_Club_Management"  name="ICPC_Clup_Management" />
+  <update check="always"/>
+</jnlp>

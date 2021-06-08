@@ -1,0 +1,28 @@
+.button {
+    -fx-border-width:1px;
+    -fx-border-color:#0091ff;
+    -fx-border-radius:6px;
+    -fx-background-radius:6px;
+    -fx-background-color:#ebe8f0;
+}
+.button:hover{
+    -fx-background-color:#ccffcc;
+}
+.button:pressed{
+  fx-border-width:3px;  
+}
+.radio-button {
+    -fx-cursor:hand;
+}
+.menu-bar {
+    -fx-border-width:1px;
+    -fx-border-color:#999999;
+}
+.text-field:hover{
+    -fx-border-width:1px; 
+}
+.hyperlink:visited {
+    -fx-text-fill:#4CC4DF;
+}
+
+

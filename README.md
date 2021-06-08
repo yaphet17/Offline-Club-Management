@@ -1,6 +1,6 @@
 # Offline-Club-Management
 ## Description
-It is an offline desktop application that used to manage a small club.I created this application fjava or our university csec-development club and i took me one day to finish it.
+It is an offline desktop application that used to manage a small club.I created this application for our csec-development club in my 3rd year university stay and it took me one day to finish it.
 ## Language and Libraries
 I used a Java programming language to create the app, [Javafx](https://openjfx.io/) for UI, MySQL for database  and [Spring security](https://docs.spring.io/spring-security/site/docs/current/reference/html5) library to encrypt login credentials.
 ## User guide

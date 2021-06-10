@@ -16,7 +16,7 @@ public class databaseConnection {
         try { 
             Class.forName("com.mysql.cj.jdbc.Driver");
             try {
-                 con=DriverManager.getConnection("jdbc:mysql://localhost:3306/icpc_club_management","root","#Dnk.mom");
+                 con=DriverManager.getConnection("jdbc:mysql://localhost:3306/icpc_club_management","Username","Password");
                 
             } catch (SQLException ex) {
                 Logger.getLogger(databaseConnection.class.getName()).log(Level.SEVERE, null, ex);
